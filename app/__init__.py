@@ -1,0 +1,1 @@
+"""Europe Travel API package."""

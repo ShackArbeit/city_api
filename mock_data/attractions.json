@@ -1,0 +1,98 @@
+[
+  {
+    "city_id": "69c38c73cecc8225266c3210",
+    "name": "Charles Bridge",
+    "category": "landmark",
+    "address": "Karluv most, 110 00 Prague 1, Czech Republic",
+    "rating": 4.8,
+    "ticket_price_eur": 0.0,
+    "is_free": true,
+    "recommended_visit_hours": 1.5,
+    "tags": ["historic", "river-view", "photography"],
+    "description": "Charles Bridge is one of Prague's most recognizable public spaces and works well for sunrise or sunset visits."
+  },
+  {
+    "city_id": "69c38c73cecc8225266c3210",
+    "name": "Prague Castle",
+    "category": "castle",
+    "address": "Hradcany, 119 08 Prague 1, Czech Republic",
+    "rating": 4.7,
+    "ticket_price_eur": 18.0,
+    "is_free": false,
+    "recommended_visit_hours": 3.0,
+    "tags": ["castle", "panoramic", "history"],
+    "description": "Prague Castle offers a large hilltop complex with churches, courtyards, and broad views over the city."
+  },
+  {
+    "city_id": "69c38c85cecc8225266c3212",
+    "name": "Colosseum",
+    "category": "landmark",
+    "address": "Piazza del Colosseo, 1, 00184 Rome, Italy",
+    "rating": 4.8,
+    "ticket_price_eur": 18.0,
+    "is_free": false,
+    "recommended_visit_hours": 2.5,
+    "tags": ["ancient", "rome", "must-see"],
+    "description": "The Colosseum is a foundational Rome stop and a clear example of demand-heavy attractions."
+  },
+  {
+    "city_id": "69c38c85cecc8225266c3212",
+    "name": "Trevi Fountain",
+    "category": "landmark",
+    "address": "Piazza di Trevi, 00187 Rome, Italy",
+    "rating": 4.7,
+    "ticket_price_eur": 0.0,
+    "is_free": true,
+    "recommended_visit_hours": 1.0,
+    "tags": ["baroque", "free", "photography"],
+    "description": "Trevi Fountain is a free high-traffic stop that fits naturally into central Rome walking plans."
+  },
+  {
+    "city_id": "69c38c97cecc8225266c3214",
+    "name": "Marienplatz",
+    "category": "square",
+    "address": "Marienplatz 1, 80331 Munich, Germany",
+    "rating": 4.6,
+    "ticket_price_eur": 0.0,
+    "is_free": true,
+    "recommended_visit_hours": 1.5,
+    "tags": ["city-center", "historic", "shopping"],
+    "description": "Marienplatz is the practical starting point for exploring Munich's old town and surrounding streets."
+  },
+  {
+    "city_id": "69c38c97cecc8225266c3214",
+    "name": "Nymphenburg Palace",
+    "category": "palace",
+    "address": "Schloss Nymphenburg 1, 80638 Munich, Germany",
+    "rating": 4.7,
+    "ticket_price_eur": 15.0,
+    "is_free": false,
+    "recommended_visit_hours": 2.5,
+    "tags": ["palace", "gardens", "bavaria"],
+    "description": "Nymphenburg Palace pairs formal architecture with broad grounds and a calmer pace than the city center."
+  },
+  {
+    "city_id": "69c38ca7cecc8225266c3216",
+    "name": "Sagrada Familia",
+    "category": "church",
+    "address": "Carrer de Mallorca, 401, 08013 Barcelona, Spain",
+    "rating": 4.8,
+    "ticket_price_eur": 26.0,
+    "is_free": false,
+    "recommended_visit_hours": 2.0,
+    "tags": ["gaudi", "architecture", "iconic"],
+    "description": "Sagrada Familia is one of Europe's most distinctive works of architecture and a strong interview demo record."
+  },
+  {
+    "city_id": "69c38ca7cecc8225266c3216",
+    "name": "Park Guell",
+    "category": "park",
+    "address": "08024 Barcelona, Spain",
+    "rating": 4.6,
+    "ticket_price_eur": 10.0,
+    "is_free": false,
+    "recommended_visit_hours": 2.0,
+    "tags": ["gaudi", "outdoor", "views"],
+    "description": "Park Guell mixes public outdoor space, design details, and city views in a compact visit window."
+  }
+]

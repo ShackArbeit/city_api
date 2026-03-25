@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Paris",
+    "country": "France",
+    "region": "Western Europe",
+    "language": ["French"],
+    "currency": "EUR",
+    "best_season": "Spring",
+    "description": "Paris is known for iconic landmarks, art museums, cafe culture, and walkable historic neighborhoods."
+  },
+  {
+    "name": "Vienna",
+    "country": "Austria",
+    "region": "Central Europe",
+    "language": ["German"],
+    "currency": "EUR",
+    "best_season": "Spring",
+    "description": "Vienna blends imperial palaces, classical music heritage, coffeehouses, and elegant city boulevards."
+  },
+  {
+    "name": "Prague",
+    "country": "Czech Republic",
+    "region": "Central Europe",
+    "language": ["Czech"],
+    "currency": "CZK",
+    "best_season": "Autumn",
+    "description": "Prague offers Gothic architecture, cobbled streets, river views, and strong value for city breaks."
+  },
+  {
+    "name": "Rome",
+    "country": "Italy",
+    "region": "Southern Europe",
+    "language": ["Italian"],
+    "currency": "EUR",
+    "best_season": "Spring",
+    "description": "Rome combines ancient ruins, major religious sites, neighborhood trattorias, and lively public squares."
+  },
+  {
+    "name": "Munich",
+    "country": "Germany",
+    "region": "Central Europe",
+    "language": ["German"],
+    "currency": "EUR",
+    "best_season": "Autumn",
+    "description": "Munich is a practical base for Bavarian culture, museums, beer gardens, and day trips toward the Alps."
+  },
+  {
+    "name": "Barcelona",
+    "country": "Spain",
+    "region": "Southern Europe",
+    "language": ["Spanish", "Catalan"],
+    "currency": "EUR",
+    "best_season": "Late Spring",
+    "description": "Barcelona stands out for Gaudi architecture, Mediterranean energy, food markets, and beach access."
+  }
+]
