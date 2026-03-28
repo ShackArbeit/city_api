@@ -35,3 +35,27 @@ This repository contains a FastAPI project for managing European cities and attr
 |-- requirements-dev.txt        # Development and CI dependencies
 `-- requirements.txt            # Runtime dependencies
 ```
+
+## Deploy To Vercel
+
+This project is ready for Vercel using the included [`vercel.json`](./vercel.json) config and the ASGI entrypoint at [`api/index.py`](./api/index.py).
+
+Set these environment variables in your Vercel project before deploying:
+
+- `MONGODB_URL`
+- `DB_NAME` (optional, defaults to `europe_travel_api`)
+
+You can use [`.env.example`](./.env.example) as the reference for required values.
+
+Deployment steps:
+
+1. Import this GitHub repository into Vercel.
+2. Leave the framework settings on auto-detect. Vercel will follow `vercel.json`.
+3. Add the required environment variables in `Settings -> Environment Variables`.
+4. Start the first deployment.
+
+After deployment, verify these paths:
+
+- `/`
+- `/health`
+- `/docs`
